@@ -1,0 +1,22 @@
+# VM images / snapshots
+*.vmdk
+*.vhdx
+*.ova
+*.ovf
+*.box
+*.vdi
+*.snapshot
+
+# Keys & secrets
+*.pem
+*.key
+*.pfx
+*.crt
+
+# Logs (local)
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
